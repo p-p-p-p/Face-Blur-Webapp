@@ -1,6 +1,6 @@
 # mediapipe blur face python
 <p align="center">
-  <img src="https://github.com/oxmp/Face-Blur-Webapp/blob/main/demo/demo.gif" alt="animated" />
+  <img src="https://raw.githubusercontent.com/p-p-p-p/Face-Blur-Webapp/main/demo/demo.gif" alt="animated" />
 </p>
 <br>
 This web app only run on localhost <br>
@@ -18,7 +18,7 @@ To run the web app  or, double click on the run.py file
 python run.py
 ```
 
-![Demo](https://github.com/oxmp/Face-Blur-Webapp/blob/main/demo/webapp.PNG)
+![Demo](https://raw.githubusercontent.com/p-p-p-p/Face-Blur-Webapp/main/demo/webapp.PNG)
 #### Give a clear input file name like "video.mp4" not like "vid - 324$op _ 9363*.mp4"
 #### If you increase "Face Detection Confidence" then face tracking will more accurate. <br>
 #### If you reduce "Blur pixel size in face" then face blur pixel size will increase. <br>
@@ -35,7 +35,7 @@ python webcam.py
 ```
 streamlit run face_blur_and_background_change.py --server.maxUploadSize=5000
 ```
-![Demo](https://github.com/oxmp/Face-Blur-Webapp/blob/main/demo/test.png)
+![Demo](https://raw.githubusercontent.com/p-p-p-p/Face-Blur-Webapp/main/demo/test.png)
 
 # Blur face and Change background
 ```
